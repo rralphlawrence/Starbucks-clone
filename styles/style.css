@@ -627,7 +627,7 @@ article.delivery article.delivery.order-img img {
   -o-object-fit: cover;
      object-fit: cover;
   max-width: 100%;
-  max-height: 100%;
+  max-height: 90%;
   width: 800px;
 }
 
